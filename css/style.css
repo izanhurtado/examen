@@ -1,0 +1,138 @@
+*{
+    font-family: sans-serif;
+}
+
+.menu{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    margin-left: -10px;
+    margin-top: -10px;
+    z-index: 2;
+}
+
+.menu img{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+ul{
+    margin-top: -27px;
+    margin-left: 30px;
+}
+
+li{
+    display: inline;
+    padding: 5px;
+}
+
+.primer{
+    margin-left: 70px;
+}
+
+.segon{
+    margin-left: 1900px;
+    margin-top: -35px;
+}
+
+a{
+    text-decoration: none;
+    color: #ccc;
+}
+
+a:hover{
+    color: #fff;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.cartelera{
+    background-color: rgb(53, 53, 53);
+    width: 100%;
+    height: 2000px;
+    margin-left: -10px;
+    color: white;
+    z-index: 1;
+    margin-top: -16px;
+}
+
+.documentals{
+    margin-left: 10px;
+}
+
+.titol{
+    margin-left: 20px;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+.titolpeli{
+    margin-top: -5px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.num{
+    float: left;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -3px;
+}
+
+.tipo{
+    float: right;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -3px;
+}
+
+.d1{
+    float: left;
+    margin: 10px;
+}
+
+.d2{
+    float: left;
+    margin: 10px;
+}
+
+.d3{
+    float: left;
+    margin: 10px;
+}
+
+.d4{
+    float: left;
+    margin: 10px;
+}
+
+.d5{
+    float: left;
+    margin: 10px;
+}
+
+.d6{
+    float: left;
+    margin: 10px;
+}
+
+.d7{
+    float: left;
+    margin: 10px;
+}
+
+.d8{
+    float: left;
+    margin: 10px;
+}
+
+.d9{
+    float: left;
+    margin: 10px;
+}
+
+.d10{
+    float: left;
+    margin: 10px;
+}
